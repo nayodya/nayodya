@@ -18,7 +18,7 @@
 <p align="center">
   I'm a passionate <b>Full Stack Developer</b> and <b>Software Engineer</b> who loves turning complex problems into elegant solutions.  
   My work focuses on creating scalable applications and meaningful digital experiences that make a difference.  
-  I enjoy exploring new technologies, contributing to open-source projects, and building innovative solutions. 🚀  
+  I enjoy exploring new technologies, contributing to open-source projects. 🚀  
 </p>
 
 <div align="center">
