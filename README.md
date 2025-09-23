@@ -70,23 +70,7 @@ const nipunNayodya = {
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayodya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayodya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nayodya&theme=tokyonight&hide_border=true&background=0D1117)
-
-![This Year's Commits](https://github-readme-stats.vercel.app/api?username=nayodya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&custom_title=This%20Year's%20Activity&hide=stars,issues,prs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-</div>
-
----
 
 ## 🌟 What I'm Currently Up To
 
