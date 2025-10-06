@@ -1,9 +1,7 @@
 # Hi there! 👋 I'm **NIPUN NAYODYA**
 
 <div align="center">
-  
-### 💻 SOFTWARE ENGINEER INTERN
-  
+    
 [![Email](https://img.shields.io/badge/Email-nayodyaperera2022@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayodyaperera2022@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+94--769699544-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+94769699544)
 [![Location](https://img.shields.io/badge/Location-New%20Town,%20Madampe-blue?style=for-the-badge&logo=google-maps&logoColor=white)]()
