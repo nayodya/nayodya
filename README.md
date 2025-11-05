@@ -23,5 +23,4 @@ const nipunNayodya = {
   degree: "BSc (Hons) in Information Technology",
   skills: ["Docker", "Kubernetes", "Jenkins", "React", "Flutter", ".NET", "MSSQL"],
   currentFocus: "Building scalable web & mobile applications and exploring DevOps automation",
-  location: "New Town, Madampe, Sri Lanka"
 };
